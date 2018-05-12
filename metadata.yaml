@@ -1,0 +1,35 @@
+_repo: The-Little-Old-PortraitLater--Edmee-A-Tale-of-the-French-Revolution_43132
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gunston, W.
+    gutenberg_agent_id: '42036'
+    url: http://www.gutenberg.org/2009/agents/42036
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: 'Later published under the title: Edmée, A Tale of the French Revolution.'
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Juvenile fiction'
+title: The Little Old Portrait
+url: http://www.gutenberg.org/ebooks/43132
